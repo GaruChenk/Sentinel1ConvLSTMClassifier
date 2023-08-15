@@ -1,3 +1,5 @@
+Shouts out to Tuo, Vi and Tien for the moral and technical support in creating this model! 
+
 ## Approach Key Elements with Underlying Assumptions
 Our approach consists of 5 stages: acquiring domain knowledge, exploratory data analysis, feature engineering, modelling, and evaluation. Our motivations were driven by the potential utility provided from a model that classifies coordinates to help agriculturalists categorise land assets to make better-informed decisions in planning, farming, and logistics. 
 
